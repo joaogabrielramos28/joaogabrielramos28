@@ -20,6 +20,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/47a156c37e9247659497b03f71ded2fda721764b/38c01/img/tech/strapi.svg" /></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></code>
+<code><img height="32" src="https://d33wubrfki0l68.cloudfront.net/c9c0cb655eaa23c6b678aadf7698db19acdc32c2/e3003/img/tech/nextjs.svg" /></code>
   
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
