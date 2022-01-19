@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor júnior na DT3
-- 🌱 Estudando GraphQL , Next.js e Typescript
+- 🌱 Estudando GraphQL e React Native
 - 🎓 Cursando Ciência da computação na <a href="https://www.dcc.ufrj.br/">UFRJ</a>.
 
 <div>
